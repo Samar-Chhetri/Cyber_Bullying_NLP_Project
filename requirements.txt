@@ -6,4 +6,5 @@ scikit-learn
 nltk
 wordcloud
 ipykernel
--e .
+emoji
+# -e .
