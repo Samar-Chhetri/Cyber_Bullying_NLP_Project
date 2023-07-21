@@ -7,4 +7,5 @@ nltk
 wordcloud
 ipykernel
 emoji
+streamlit
 # -e .
