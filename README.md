@@ -24,13 +24,14 @@ In this project, we have made a NLP model to predict the type of cyber-bullying.
 ### Deployment Figure
 
 ##### Before :
-![email_spam_1](https://github.com/Samar-Chhetri/SMS_Spam_Classification_Model/assets/122675013/6c100baf-65aa-4f1c-8b1f-838a5753c461)
+
+![cyber_bully_1](https://github.com/Samar-Chhetri/Cyber_Bullying_NLP_Project/assets/122675013/63b8cf8d-0b98-4ed0-b90b-ac9d0017ee16)
 
 
 
 ##### Prediction :
-![email_spam_2](https://github.com/Samar-Chhetri/SMS_Spam_Classification_Model/assets/122675013/991c9759-1866-4419-a48c-1790ac3e4bc0)
 
+![cyber_bully_2](https://github.com/Samar-Chhetri/Cyber_Bullying_NLP_Project/assets/122675013/027dc949-b085-4418-bba5-fa18df2280af)
 
 
 
@@ -46,7 +47,7 @@ In this project, we have made a NLP model to predict the type of cyber-bullying.
 I'm a passionate data scientist who is actively learning the use of Data Science and Machine Learning is the field of Finance.
 
 ## Dataset Link
-https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification
 
 
 ## 🔗 Links
